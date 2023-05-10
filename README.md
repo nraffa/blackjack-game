@@ -1,13 +1,5 @@
 # Blackjack game done with love in HTML, CSS and JS ❤️
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-
-````
-
-Head over to 'web-page' to have a look at the site and enjoy some Blackjacking!
+Head over to https://candid-kitten-77b01a.netlify.app/ to have a look at the site and enjoy some Blackjacking!
 
 Happy Gaming!
