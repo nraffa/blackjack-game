@@ -7,6 +7,5 @@ Happy Gaming!
 <br>
 
 ## Demo
-----------------------
 <br>
 <img src="./assets/blackjack.gif" alt="Blackjack Demo" width="250">
