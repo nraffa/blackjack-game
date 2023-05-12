@@ -4,6 +4,4 @@ Head over to https://candid-kitten-77b01a.netlify.app/ to have a look at the sit
 
 Happy Gaming!
 
-<video controls>
-  <source src="blackjack.gif" type="video/gif">
-</video>
+![Blackjack Demo](./assets/blackjack.gif)
